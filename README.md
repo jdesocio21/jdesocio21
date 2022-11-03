@@ -3,8 +3,13 @@
 - 🔭 I’m currently working on transitioning from a Civil Engineering Career to Data Science! 
 - 🌱 I’m currently learning Data Science to conduct Market analysis 
 - 👯 I’m looking to collaborate on Market Research Projects and Start-Ups!
+- ✔  Some of my skills include:  
+      - Python, Tableau, SQL, Excel, Flask  
+      - Pandas, Seaborn, NumPy, Matplotlib  
+      - Data Visualization, Machine Learning, Predictive Analysis  
+      - Project/Construction Management, Engineering  
 - 💬 Ask me about: Football or Skiing, Guitar, the U.S. Stock Market and Options, Cryptocurrency, Computer Science and Data Science! 
-- 📫 How to reach me: 
+- 📫 How to reach me:  
       - LinkedIn: https://www.linkedin.com/in/jamesdesocio/
 
 
